@@ -26,7 +26,7 @@
 		<junit-verion>3.8.1</junit-verion>
 		<rabbitmq-version>3.6.1</rabbitmq-version>
 		<httpclient-version>4.5.1</httpclient-version>
-		<jackson-databind-version>2.7.3</jackson-databind-version>
+		<jackson-databind-version>2.9.10.4</jackson-databind-version>
 		<jackson-core-version>2.7.3</jackson-core-version>
 		<jackson-annotations-version>2.7.3</jackson-annotations-version>
 		<spring-session-version>1.1.1.RELEASE</spring-session-version>
