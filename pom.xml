@@ -23,7 +23,7 @@
 		<dbcp-version>1.2.2</dbcp-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
-		<junit-verion>3.8.1</junit-verion>
+		<junit-verion>4.13.1</junit-verion>
 		<rabbitmq-version>3.6.1</rabbitmq-version>
 		<httpclient-version>4.5.1</httpclient-version>
 		<jackson-databind-version>2.7.3</jackson-databind-version>
